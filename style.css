@@ -29,7 +29,7 @@ campus hr{
     border-radius:10px;
     margin-bottom:15px;
     width:100%;
-    display:incline-block;
+    display:inline-block;
 }
 .achieveing i{
     float:right;
