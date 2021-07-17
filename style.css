@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color:lightyellow;
+    background-color:lightpink;
 }
 .row::after{
     content:"";
@@ -36,4 +36,17 @@ campus hr{
 }
 .achieveing_text span{
     color: coral;
+}
+.newthings{
+    margin-top:15px;
+    border-radius: 20px;
+    border:3px solid black;
+    
+}
+.newthings h2{
+    padding:10px
+    bottom-border:3px solid black;
+}
+.newthings h4{
+    margin-top:10px;
 }
