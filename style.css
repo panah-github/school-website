@@ -50,3 +50,23 @@ campus hr{
 .newthings h4{
     margin-top:10px;
 }
+.alumni{
+    cursor:pointer;
+    background-color: white;
+    margin-left: 100px;
+padding-right:-10px;
+    padding-left:-20px;
+}
+.img_modal{
+display: inline-block;
+}
+.modal-body{
+    text-align:center;
+}
+#footer{
+height:20px;
+    background-color: white;
+}
+.navbar{
+    position:sticky;
+}
